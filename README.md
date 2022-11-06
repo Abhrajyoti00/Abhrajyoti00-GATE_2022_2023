@@ -16,4 +16,6 @@ This repository contains :-
 
 7) GO PDFs
 
-8) README.md
+8) Made easy test series qs with analysis
+
+9) README.md
