@@ -18,4 +18,6 @@ This repository contains :-
 
 8) Made easy test series qs with analysis
 
-9) README.md
+9) Gate Overflow & GO Classes Test Series added
+
+10) README.md
