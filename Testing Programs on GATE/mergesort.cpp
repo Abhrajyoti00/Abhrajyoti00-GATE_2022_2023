@@ -31,7 +31,7 @@ void merge(int low, int mid, int high){
     }
 }
 int main(){
-    merge(0,10,4);
+    merge(0,4,10);
     for(int i = 0; i<10; i++){
         cout<<a[i]<<", ";
     }
