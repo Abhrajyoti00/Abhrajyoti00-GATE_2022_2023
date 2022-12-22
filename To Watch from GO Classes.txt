@@ -1,3 +1,10 @@
 1. Decidability lec from youtube
 2. ER-Diagrams full
-3. 
+3. https://youtu.be/nSAl7ngCyjw : Codd's rule of data independence
+4. Expectation
+5. ICMP 
+6. Multilevel paging- By sachin sir
+7. COA - cache hit, miss L1, L2 miss penalty
+8. Digital Logic - Adders
+9. 3D Array, pointers
+10. Memory leak, Dangling pointer -> DS
