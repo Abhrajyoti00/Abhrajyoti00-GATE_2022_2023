@@ -8,3 +8,5 @@
 8. Digital Logic - Adders
 9. 3D Array, pointers
 10. Memory leak, Dangling pointer -> DS
+11. Syntax error, Semantic error, runtime error, compile time error
+12. Propositional Logic, FOL - Deepak Poonia Sir
