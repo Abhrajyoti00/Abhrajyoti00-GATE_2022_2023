@@ -16,12 +16,8 @@ This repository contains :-
 
 7) GO PDFs
 
-8) Made easy test series qs with analysis
+8) Testing Programs based on GATE
 
-9) Gate Overflow & GO Classes Test Series added
+9) My Pending Things to learn
 
-10) Testing Programs based on GATE
-
-11) Watch lectures of
-
-12) README.md
+10) README.md
