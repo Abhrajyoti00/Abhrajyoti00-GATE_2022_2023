@@ -10,3 +10,4 @@
 10. Memory leak, Dangling pointer -> DS
 11. Syntax error, Semantic error, runtime error, compile time error
 12. Propositional Logic, FOL - Deepak Poonia Sir
+13. Extended Master's theorem, then reattempt this Algo 2 paper: https://gateoverflow.in/exam/340/go-classes-test-series-2023-algorithms-test-2
