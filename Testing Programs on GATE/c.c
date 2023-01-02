@@ -1,5 +1,11 @@
 #include<stdio.h>
 int main() {                /*Line 1 */
-    int I, N;               /*Line 2 */
-    fro (I=0, I<N, I++);	/*Line 3 */
+int *A1[3][5];
+int (*A2) [3] [5];
+int *(A3[3][5]);
+int (*A4[3])[5];
+printf("%d",sizeof(*A1));
+printf("%d",sizeof(*A2));
+printf("%d",sizeof(*A3));
+printf("%d",sizeof(*A4));
 }
