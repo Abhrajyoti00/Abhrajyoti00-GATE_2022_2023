@@ -1,11 +1,19 @@
-#include<stdio.h>
-int main() {                /*Line 1 */
-int *A1[3][5];
-int (*A2) [3] [5];
-int *(A3[3][5]);
-int (*A4[3])[5];
-printf("%d",sizeof(*A1));
-printf("%d",sizeof(*A2));
-printf("%d",sizeof(*A3));
-printf("%d",sizeof(*A4));
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (){
+    int a,b,c;
+    a=11.3;
+    b=9.1;
+    c=10;
+    printf("%d",a);
+    printf("%d ",b);
+    printf("%d \n" ,c);
+    printf("%c \n",11.2);
+    printf("%c \n",9.1);
+    printf("%c \n" ,c);
+    printf("%c", 128);
+    printf("Doom");
+    printf("%c", 256);
+    return(0);
 }
