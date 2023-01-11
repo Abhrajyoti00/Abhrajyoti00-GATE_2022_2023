@@ -1,6 +1,6 @@
 1. Decidability lec from youtube
 2. ER-Diagrams full
-3. https://youtu.be/nSAl7ngCyjw : Codd's rule of data independence
+
 4. Expectation
 5. ICMP 
 6. Multilevel paging- By sachin sir
@@ -21,7 +21,3 @@
 20: Revise TTL, fragmentation part
 
 
-To give to chat gpt:-
-
-Is it gpt generated chat
-codechef problems
