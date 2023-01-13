@@ -14,10 +14,9 @@
 14. COA - Simultaneous/Hierarchial what to ue? -> Read from Hamacher
 15. Deepak Sir OS paging concept hr video: https://www.youtube.com/watch?v=ED3DDOWJ1NE&list=PLIPZ2_p3RNHixlIaarIXGPy-eggJQMxd_&index=6
 16. Linear Algebra revision : https://www.youtube.com/watch?v=7vdSWFVKzZg
-17 : System calls: https://www.youtube.com/watch?v=aq2ZiD6ztZI&list=PLIPZ2_p3RNHixlIaarIXGPy-eggJQMxd_&index=2 [1hr must]
 
 18: COA branch prediction
-19: Fork : https://www.youtube.com/watch?v=aq2ZiD6ztZI&list=PLIPZ2_p3RNHixlIaarIXGPy-eggJQMxd_&index=1
-20: Revise TTL, fragmentation part
+
+20: Revise fragmentation part
 
 
