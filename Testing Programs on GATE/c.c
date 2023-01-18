@@ -47,8 +47,10 @@
 #include<stdio.h>
 int g;
 int main (){
-static int a,b;
-int c=2,d;
-d = (a|| (++b &&(c| ++g)));
-printf("%d", d);
+// static int a,b;
+// int c=2,d;
+// d = (a|| (++b &&(c| ++g)));
+// printf("%d", d);
+char a[] = "abc\0de";
+printf("%d", sizeof(a));
 }
