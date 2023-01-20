@@ -46,11 +46,19 @@
 
 #include<stdio.h>
 int g;
-int main (){
 // static int a,b;
 // int c=2,d;
 // d = (a|| (++b &&(c| ++g)));
 // printf("%d", d);
-char a[] = "abc\0de";
-printf("%d", sizeof(a));
+// char a[] = "abc\0de";
+// printf("%d", sizeof(a));
+int main()
+{
+    int arr[]={10,20,30,40,50,60};
+    int *ptr1=arr;
+    int *ptr2=arr+5;
+    printf("Number of elements between two pointer are: %d.", 
+    (ptr2 - ptr1));
+    printf("Number of bytes between two pointer are: %d.", 
+    (char*)ptr2 - (char*)ptr1);
 }
