@@ -78,13 +78,38 @@
 // // }
 
 #include <stdio.h>
+// void swapK(Queue q, int k) {
+//     if (k > q.size())
+//         print("k cannot be more than queue size");
+//  for (int i = 0; i < k / 2; i++) {
+//     int elem1 = q.dequeue();
+//     int elem2 = q.dequeue();
+//     q.enqueue(elem2);
+//     q.enqueue(elem1);
+//  }
+     
+//  for (int i = 0; i < q.size() - k; i++) {
+//     q.enqueue(q.dequeue());
+// }
+     
+// }
+ 
 int main()
 {
-    int b[] = {3,2,0,1};
-    int *A = b;
-    //*A++ will be treated as *(A++) but increment of A will happen after using *A for condition check
-    while(*A++){ 
-        printf("%d\n",*A);    
-    }
+    // int b[] = {3,2,0,1};
+    // int *A = b;
+    // //*A++ will be treated as *(A++) but increment of A will happen after using *A for condition check
+    // while(*A++){ 
+    //     printf("%d\n",*A);    
+    // }
+
+    char *words[] = {"hello", "world"};
+    void *v = words;
+
+//  printf("%c %c\n", *v, *(v + 1)); 
+ printf("%s %s\n", *(char **)v, *((char **)v + 1)); 
+//  printf("%s %s\n ", *(char *)v, *((char *)v + 1)); 
+//  printf("%s %s\n", **v, **(v + 1)); 
+    
     return 0;
 }
