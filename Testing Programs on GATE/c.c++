@@ -77,7 +77,7 @@
 // //     // (char*)ptr2 - (char*)ptr1);
 // // }
 
-#include <stdio.h>
+#include <bits/stdc++.h>
 // void swapK(Queue q, int k) {
 //     if (k > q.size())
 //         print("k cannot be more than queue size");
@@ -103,13 +103,17 @@ int main()
     //     printf("%d\n",*A);    
     // }
 
-    char *words[] = {"hello", "world"};
-    void *v = words;
+//     char *words[] = {"hello", "world"};
+//     void *v = words;
 
-//  printf("%c %c\n", *v, *(v + 1)); 
- printf("%s %s\n", *(char **)v, *((char **)v + 1)); 
-//  printf("%s %s\n ", *(char *)v, *((char *)v + 1)); 
-//  printf("%s %s\n", **v, **(v + 1)); 
+// //  printf("%c %c\n", *v, *(v + 1)); 
+//  printf("%s %s\n", *(char **)v, *((char **)v + 1)); 
+// //  printf("%s %s\n ", *(char *)v, *((char *)v + 1)); 
+// //  printf("%s %s\n", **v, **(v + 1)); 
     
+    char *a[10] = {};
+    int i =0;
+    for(i=0;i<10;i++)
+    cout<<a[i];
     return 0;
 }
